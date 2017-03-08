@@ -1,4 +1,3 @@
-
 # SCRIPT FOR GENERATING COLONY INPUT FILES FROM A DEMOGRAPHIC DATABASE IN SQL #
 
 import os, string, re, psycopg2
@@ -397,4 +396,3 @@ connection.close()
 print 'DONE!'
 
 #END#
-
